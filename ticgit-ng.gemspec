@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.email     = ["Jeff.Welling@gmail.com"]
   s.homepage  = "https://github.com/jeffWelling/ticgit"
   s.summary   = "Git based distributed ticketing system"
-  s.description="TicGit-ng is a simple ticketing system, roughly similar to the Lighthouse model, that is based in git."
+  s.description="TicGit-ng is a simple ticketing system."
 
   s.rubyforge_project         = "ticgit-ng"
 
